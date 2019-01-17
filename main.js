@@ -50,7 +50,5 @@ function evenOrOdd(){
 
 
 /* 
-1. Click a Button
-2, Return a function
-3. User input box.
+Interactivity and user events- change what you see based on input received.
 */
